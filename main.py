@@ -16,3 +16,4 @@ if resultado1:
 elif resultado2:
     print(f"O gasto diário calórico é {resultado2:.2f} calorias.")
 
+  

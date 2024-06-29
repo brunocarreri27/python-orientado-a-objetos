@@ -11,4 +11,4 @@ class Pessoa:
     def calcularMulher(self):
             if self.sexo == "feminino":
                 gasto_diario = (0.062 * self.peso + 2.036) * 239
-                return gasto_diario
+                return gasto_diario  
